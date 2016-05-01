@@ -1,4 +1,4 @@
-package imangazaliev.formvalidator.app;
+package imangazaliev.formvalidator;
 
 import org.junit.Test;
 
