@@ -63,6 +63,10 @@ FieldValidator loginFieldValidator = new FieldValidator(mLoginField, mLoginInput
 boolean isValid = alidator.validate();
 ```
 
+Результат:
+
+<img src="https://github.com/ImangazalievM/FormValidator/blob/master/screenshots/2.png" width="33%">
+
 ##Лицензия
 
 The MIT License
