@@ -39,6 +39,10 @@ validator.addField(loginFieldValidator);
 boolean isValid = alidator.validate();
 ```
 
+Результат:
+
+<img src="https://github.com/ImangazalievM/FormValidator/blob/master/screenshots/2.jpg" width="33%">
+
 ##Используем TextInputLayout
 
 Также библиотека может работать с TextInputLayout:
