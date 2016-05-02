@@ -41,7 +41,7 @@ boolean isValid = alidator.validate();
 
 Результат:
 
-<img src="https://github.com/ImangazalievM/FormValidator/blob/master/screenshots/2.jpg" width="33%">
+<img src="https://github.com/ImangazalievM/FormValidator/blob/master/screenshots/1.png" width="33%">
 
 ##Используем TextInputLayout
 
