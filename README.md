@@ -4,7 +4,7 @@
 ## Подключение библиотеки
 
 ```gradle
-compile 'imangazaliev:formvalidator:1.0.0'
+compile 'imangazaliev:formvalidator:1.0.1'
 ```
 
 ##Пример использования:
