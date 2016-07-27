@@ -3,10 +3,10 @@ apply plugin: 'com.novoda.bintray-release'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "24.0.0 rc2"
+    buildToolsVersion "23.0.1"
 
     defaultConfig {
-        minSdkVersion 15
+        minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
         versionName "1.0.0"
@@ -25,16 +25,14 @@ dependencies {
     compile "com.android.support:appcompat-v7:$SUPPORT_LIBRARY_VERSION"
     compile "com.android.support:design:$SUPPORT_LIBRARY_VERSION"
 
-    //Тесты
-    testCompile 'junit:junit:4.12'
 }
 
 // это блок будет обработан плагином bintray-release
 publish {
-    groupId = 'imangazaliev'
+    groupId = 'imangazalievm'
     artifactId = 'formvalidator'
     publishVersion = '1.0.0'
-    desc = 'Библиотека для проверки полей ввода на корректность введенных данных '
-    licences = ['Apache-2.0']
+    desc = 'Библиотека для проверки полей ввода на корректность введенных данных'
+    licences = ['MIT']
     website = 'https://github.com/ImangazalievM/FormValidator'
 }
