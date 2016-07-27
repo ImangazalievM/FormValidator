@@ -36,7 +36,7 @@ validator.addField(loginFieldValidator);
 Проверяем:
 
 ```java
-boolean isValid = alidator.validate();
+boolean isValid = validator.validate();
 ```
 
 Результат:
@@ -60,7 +60,7 @@ FieldValidator loginFieldValidator = new FieldValidator(mLoginField, mLoginInput
 Проверяем:
 
 ```java
-boolean isValid = alidator.validate();
+boolean isValid = validator.validate();
 ```
 
 Результат:
