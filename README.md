@@ -7,7 +7,7 @@
 compile 'imangazaliev:formvalidator:1.0.1'
 ```
 
-##Пример использования:
+## Пример использования:
 
 Создаем форму:
 
@@ -43,7 +43,7 @@ boolean isValid = validator.validate();
 
 <img src="https://github.com/ImangazalievM/FormValidator/blob/master/screenshots/1.png" width="33%">
 
-##Используем TextInputLayout
+## Используем TextInputLayout
 
 Также библиотека может работать с TextInputLayout:
 
@@ -67,7 +67,7 @@ boolean isValid = validator.validate();
 
 <img src="https://github.com/ImangazalievM/FormValidator/blob/master/screenshots/2.png" width="33%">
 
-##Лицензия
+## Лицензия
 
 The MIT License
 
